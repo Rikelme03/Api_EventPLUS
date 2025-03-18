@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qZa6iQLww8WF6/fFrzQRT3fyUkeNxp564w8RhfildyA=",
+  "Source": "EventPLUS",
+  "BasePath": "_content/EventPLUS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
